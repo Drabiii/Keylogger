@@ -1,0 +1,13 @@
+C:\Users\mdrabowi\source\repos\Keylogger3\bin\Release\Keylogger3.exe.config
+C:\Users\mdrabowi\source\repos\Keylogger3\bin\Release\Keylogger3.exe
+C:\Users\mdrabowi\source\repos\Keylogger3\bin\Release\Keylogger3.pdb
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.Form1.resources
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.Properties.Resources.resources
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.csproj.GenerateResource.cache
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.csproj.CoreCompileInputs.cache
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.exe
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.pdb
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.csproj.AssemblyReference.cache
+C:\Users\mdrabowi\source\repos\Keylogger3\bin\Release\Topshelf.dll
+C:\Users\mdrabowi\source\repos\Keylogger3\bin\Release\Topshelf.xml
+C:\Users\mdrabowi\source\repos\Keylogger3\obj\Release\Keylogger3.csproj.CopyComplete
